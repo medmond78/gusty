@@ -1,0 +1,17 @@
+{
+  "name": "gusty",
+  "version": "0.0.1",
+  "description": "Node wrapper for Breezometer API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "breezometer"
+  ],
+  "author": "MEP",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
